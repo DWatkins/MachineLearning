@@ -17,11 +17,12 @@ bootwatch: paper
 # Build settings
 markdown: kramdown
 highlighter: rouge
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-relative-links
 
 exclude:
   - Gemfile
@@ -47,10 +48,26 @@ defaults:
     seo:
       type: "WebPage"
 
+- scope:
+    path: _assignments
+    type: assignments
+  values:
+    layout: docs
+    sectionid: assignments
+    seo:
+      type: "WebPage"
+
 collections:
   docs:
+    permalink: /:collection/:path/
+    output: true
+  assignments:
     permalink: /:collection/:path/
     output: true
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
+
+relative_links:
+  enabled:     true
+  collections: true

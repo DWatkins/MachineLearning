@@ -1,3 +1,7 @@
+This is a small modification of the jekyl docs theme by [aksakalli](https://github.com/aksakalli/jekyll-doc-theme)
+
+Modified to be able to include multiple independent document trees.
+
 # Jekyll Doc Theme
 
 Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.

@@ -1,0 +1,77 @@
+[
+
+  
+    
+    
+    {
+      "title": "Welcome",
+      "url": "/MachineLearning/docs/home/"
+
+    },
+  
+    
+    
+    {
+      "title": "Themes",
+      "url": "/MachineLearning/docs/themes/"
+
+    },
+  
+    
+    
+    {
+      "title": "Customization",
+      "url": "/MachineLearning/docs/customization/"
+
+    },
+  
+
+  
+    
+    
+    {
+      "title": "Markdown Cheatsheet",
+      "url": "/MachineLearning/docs/cheatsheet/"
+
+    },
+  
+    
+    
+    {
+      "title": "Font Awesome Icon List",
+      "url": "/MachineLearning/docs/font-awesome/"
+
+    },
+  
+    
+    
+    {
+      "title": "Bootstrap Features",
+      "url": "/MachineLearning/docs/bootstrap/"
+
+    },
+  
+
+
+  
+  {
+  "title": "Adding a New Documentation Tree",
+  "url": "/MachineLearning/blog/2018/09/07/adding-a-new-doc-tree/"
+  },
+  
+  {
+  "title": "Documentation Site Setup Steps",
+  "url": "/MachineLearning/blog/2018/08/27/site-setup/"
+  },
+  
+  {
+  "title": "Jekyll Doc Theme is published!",
+  "url": "/MachineLearning/blog/2017/05/03/jekyll-doc-theme/"
+  },
+  
+  {
+  "title": "Welcome to Jekyll!",
+  "url": "/MachineLearning/blog/2017/02/01/welcome-to-jekyll/"
+  }
+  
+]
