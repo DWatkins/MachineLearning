@@ -3,7 +3,7 @@ title: Class Paper
 permalink: /assignments/initialpaper/
 ---
 
-## Citation/Title/Fix
+## Paper Citation
 
 ```
 Mohanty, V., Agrawal, S., Datta, S., Ghosh, A., Sharma, V. D., & Chakravarty, D. (2016). DeepVO: A Deep Learning approach for Monocular Visual Odometry. Retrieved from http://arxiv.org/abs/1611.06069
